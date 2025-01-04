@@ -6,21 +6,25 @@ namespace DoWhileLoop
     {
         static void Main(string[] args)
         {
-            //Boolean Comparison using while loop
-            int num = 0;
-            while (num < 11)
+            // Initialize Counter to 0
+            int counter = 0;
+            // Set While loop to loop 11 times, from 0 to 10
+            while (counter < 11)
             {
-                Console.WriteLine("This is Loop Hit #" + num);
+                // Format and Display each loop in console, then add 1 to counter
+                Console.WriteLine("This is Loop Hit #" + counter);
                 Console.ReadLine();
-                num++;
+                counter++;
             }
             
 
-            //Boolean Comparison using do while loop
+            // Prompt user to guess a number within a range
             Console.WriteLine("I'm thinking of a number between 1-10. What is it?");
             int number = Convert.ToInt32(Console.ReadLine());
+            // Set number user is trying to guess at 7
             bool doNum = number >= 7;
 
+            // Hitting switch at least once no matter what the user guesses
             do
             {
                 switch (number)
@@ -47,6 +51,7 @@ namespace DoWhileLoop
                         break;
                 }
             }
+            // Looping through switch statement if user guesses the wrong number until correct number is guessed
             while (!doNum);
 
             Console.ReadLine();
