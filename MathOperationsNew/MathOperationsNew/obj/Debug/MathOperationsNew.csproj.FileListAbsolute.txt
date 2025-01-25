@@ -1,0 +1,7 @@
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathOperationsNew\MathOperationsNew\bin\Debug\MathOperationsNew.exe.config
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathOperationsNew\MathOperationsNew\bin\Debug\MathOperationsNew.exe
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathOperationsNew\MathOperationsNew\bin\Debug\MathOperationsNew.pdb
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathOperationsNew\MathOperationsNew\obj\Debug\MathOperationsNew.csproj.AssemblyReference.cache
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathOperationsNew\MathOperationsNew\obj\Debug\MathOperationsNew.csproj.CoreCompileInputs.cache
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathOperationsNew\MathOperationsNew\obj\Debug\MathOperationsNew.exe
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathOperationsNew\MathOperationsNew\obj\Debug\MathOperationsNew.pdb

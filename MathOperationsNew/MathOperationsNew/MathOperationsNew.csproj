@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BC6092D3-CA95-4EE7-8339-4DCDC7AC0810}</ProjectGuid>
+    <ProjectGuid>{648E47F5-555A-4326-BC6F-0273623EE3B9}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>MathOperations</RootNamespace>
-    <AssemblyName>MathOperations</AssemblyName>
+    <RootNamespace>MathOperationsNew</RootNamespace>
+    <AssemblyName>MathOperationsNew</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\..\..\..\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathOperationsProgram.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

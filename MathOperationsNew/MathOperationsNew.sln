@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathOperations", "MathOperations\MathOperations.csproj", "{BC6092D3-CA95-4EE7-8339-4DCDC7AC0810}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathOperationsNew", "MathOperationsNew\MathOperationsNew.csproj", "{648E47F5-555A-4326-BC6F-0273623EE3B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BC6092D3-CA95-4EE7-8339-4DCDC7AC0810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BC6092D3-CA95-4EE7-8339-4DCDC7AC0810}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BC6092D3-CA95-4EE7-8339-4DCDC7AC0810}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BC6092D3-CA95-4EE7-8339-4DCDC7AC0810}.Release|Any CPU.Build.0 = Release|Any CPU
+		{648E47F5-555A-4326-BC6F-0273623EE3B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{648E47F5-555A-4326-BC6F-0273623EE3B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{648E47F5-555A-4326-BC6F-0273623EE3B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{648E47F5-555A-4326-BC6F-0273623EE3B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {C121009B-AF3C-4D17-AA33-8F733708AB93}
+		SolutionGuid = {254CD346-5985-4C4D-A727-62C7C820E979}
 	EndGlobalSection
 EndGlobal
