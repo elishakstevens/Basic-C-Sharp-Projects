@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elish\\OneDrive\\Documents\\GitHub\\Basic-C-Sharp-Projects\\MethodClassNew\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16C1CB37-A014-4369-A5C0-F8D8D21AD292}|MethodClassNew\\MethodClassNew.csproj|c:\\users\\elish\\onedrive\\documents\\github\\basic-c-sharp-projects\\methodclassnew\\methodclassnew\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C1CB37-A014-4369-A5C0-F8D8D21AD292}|MethodClassNew\\MethodClassNew.csproj|solutionrelative:methodclassnew\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elish\\OneDrive\\Documents\\GitHub\\Basic-C-Sharp-Projects\\MethodClassNew\\MethodClassNew\\Program.cs",
+              "RelativeDocumentMoniker": "MethodClassNew\\Program.cs",
+              "ToolTip": "C:\\Users\\elish\\OneDrive\\Documents\\GitHub\\Basic-C-Sharp-Projects\\MethodClassNew\\MethodClassNew\\Program.cs",
+              "RelativeToolTip": "MethodClassNew\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T05:31:17.892Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

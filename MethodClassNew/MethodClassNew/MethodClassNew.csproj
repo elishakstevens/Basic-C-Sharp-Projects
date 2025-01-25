@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DD333269-A012-4AD7-96A9-D72B946367BA}</ProjectGuid>
+    <ProjectGuid>{16C1CB37-A014-4369-A5C0-F8D8D21AD292}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>MethodClass</RootNamespace>
-    <AssemblyName>MethodClass</AssemblyName>
+    <RootNamespace>MethodClassNew</RootNamespace>
+    <AssemblyName>MethodClassNew</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\..\..\..\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodClassProgram.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -1,0 +1,7 @@
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodClassNew\MethodClassNew\bin\Debug\MethodClassNew.exe.config
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodClassNew\MethodClassNew\bin\Debug\MethodClassNew.exe
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodClassNew\MethodClassNew\bin\Debug\MethodClassNew.pdb
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodClassNew\MethodClassNew\obj\Debug\MethodClassNew.csproj.AssemblyReference.cache
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodClassNew\MethodClassNew\obj\Debug\MethodClassNew.csproj.CoreCompileInputs.cache
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodClassNew\MethodClassNew\obj\Debug\MethodClassNew.exe
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodClassNew\MethodClassNew\obj\Debug\MethodClassNew.pdb
