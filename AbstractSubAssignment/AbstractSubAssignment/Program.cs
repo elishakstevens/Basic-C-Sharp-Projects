@@ -10,7 +10,9 @@ namespace AbstractSubAssignment
     {
         static void Main(string[] args)
         {
+            //Instantiate Class
             Employee employee = new Employee() {firstName = "Sample", lastName = "Student"};
+            //Call method from instantiated class
             employee.SayName();
             Console.ReadLine();
 
