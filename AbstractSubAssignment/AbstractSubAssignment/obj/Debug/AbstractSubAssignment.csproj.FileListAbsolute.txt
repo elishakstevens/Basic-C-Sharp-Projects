@@ -1,0 +1,7 @@
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\AbstractSubAssignment\AbstractSubAssignment\bin\Debug\AbstractSubAssignment.exe.config
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\AbstractSubAssignment\AbstractSubAssignment\bin\Debug\AbstractSubAssignment.exe
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\AbstractSubAssignment\AbstractSubAssignment\bin\Debug\AbstractSubAssignment.pdb
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\AbstractSubAssignment\AbstractSubAssignment\obj\Debug\AbstractSubAssignment.csproj.AssemblyReference.cache
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\AbstractSubAssignment\AbstractSubAssignment\obj\Debug\AbstractSubAssignment.csproj.CoreCompileInputs.cache
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\AbstractSubAssignment\AbstractSubAssignment\obj\Debug\AbstractSubAssignment.exe
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\AbstractSubAssignment\AbstractSubAssignment\obj\Debug\AbstractSubAssignment.pdb
