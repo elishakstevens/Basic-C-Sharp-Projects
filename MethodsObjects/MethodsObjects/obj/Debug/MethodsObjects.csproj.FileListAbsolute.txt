@@ -1,0 +1,7 @@
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodsObjects\MethodsObjects\bin\Debug\MethodsObjects.exe.config
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodsObjects\MethodsObjects\bin\Debug\MethodsObjects.exe
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodsObjects\MethodsObjects\bin\Debug\MethodsObjects.pdb
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodsObjects\MethodsObjects\obj\Debug\MethodsObjects.csproj.AssemblyReference.cache
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodsObjects\MethodsObjects\obj\Debug\MethodsObjects.csproj.CoreCompileInputs.cache
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodsObjects\MethodsObjects\obj\Debug\MethodsObjects.exe
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodsObjects\MethodsObjects\obj\Debug\MethodsObjects.pdb
