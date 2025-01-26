@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{6CFA4BAF-E782-4CEE-831E-A87254CF937A}|ClassSubAssignment\\ClassSubAssignment.csproj|c:\\users\\elish\\onedrive\\documents\\github\\basic-c-sharp-projects\\classsubassignment\\classsubassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CFA4BAF-E782-4CEE-831E-A87254CF937A}|ClassSubAssignment\\ClassSubAssignment.csproj|solutionrelative:classsubassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CFA4BAF-E782-4CEE-831E-A87254CF937A}|ClassSubAssignment\\ClassSubAssignment.csproj|c:\\users\\elish\\onedrive\\documents\\github\\basic-c-sharp-projects\\classsubassignment\\classsubassignment\\randomop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CFA4BAF-E782-4CEE-831E-A87254CF937A}|ClassSubAssignment\\ClassSubAssignment.csproj|solutionrelative:classsubassignment\\randomop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "randomOp.cs",
+              "DocumentMoniker": "C:\\Users\\elish\\OneDrive\\Documents\\GitHub\\Basic-C-Sharp-Projects\\ClassSubAssignment\\ClassSubAssignment\\randomOp.cs",
+              "RelativeDocumentMoniker": "ClassSubAssignment\\randomOp.cs",
+              "ToolTip": "C:\\Users\\elish\\OneDrive\\Documents\\GitHub\\Basic-C-Sharp-Projects\\ClassSubAssignment\\ClassSubAssignment\\randomOp.cs",
+              "RelativeToolTip": "ClassSubAssignment\\randomOp.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwB4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T01:15:03.768Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "ClassSubAssignment\\Program.cs",
               "ToolTip": "C:\\Users\\elish\\OneDrive\\Documents\\GitHub\\Basic-C-Sharp-Projects\\ClassSubAssignment\\ClassSubAssignment\\Program.cs",
               "RelativeToolTip": "ClassSubAssignment\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBYAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-25T05:54:18.295Z",
               "EditorCaption": ""
