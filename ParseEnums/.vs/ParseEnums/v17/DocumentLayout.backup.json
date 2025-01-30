@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elish\\OneDrive\\Documents\\GitHub\\Basic-C-Sharp-Projects\\ParseEnums\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B45AA5D-8454-45D9-81D0-FD3C3B8F21C2}|ParseEnums\\ParseEnums.csproj|c:\\users\\elish\\onedrive\\documents\\github\\basic-c-sharp-projects\\parseenums\\parseenums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B45AA5D-8454-45D9-81D0-FD3C3B8F21C2}|ParseEnums\\ParseEnums.csproj|solutionrelative:parseenums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elish\\OneDrive\\Documents\\GitHub\\Basic-C-Sharp-Projects\\ParseEnums\\ParseEnums\\Program.cs",
+              "RelativeDocumentMoniker": "ParseEnums\\Program.cs",
+              "ToolTip": "C:\\Users\\elish\\OneDrive\\Documents\\GitHub\\Basic-C-Sharp-Projects\\ParseEnums\\ParseEnums\\Program.cs",
+              "RelativeToolTip": "ParseEnums\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T05:31:04.258Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ParseEnums\ParseEnums\obj\Debug\ParseEnums.csproj.AssemblyReference.cache
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ParseEnums\ParseEnums\obj\Debug\ParseEnums.csproj.CoreCompileInputs.cache
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ParseEnums\ParseEnums\bin\Debug\ParseEnums.exe.config
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ParseEnums\ParseEnums\bin\Debug\ParseEnums.exe
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ParseEnums\ParseEnums\bin\Debug\ParseEnums.pdb
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ParseEnums\ParseEnums\obj\Debug\ParseEnums.exe
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ParseEnums\ParseEnums\obj\Debug\ParseEnums.pdb
