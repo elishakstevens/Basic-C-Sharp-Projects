@@ -1,0 +1,7 @@
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LambdaSubAssignment\LambdaSubAssignment\bin\Debug\LambdaSubAssignment.exe.config
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LambdaSubAssignment\LambdaSubAssignment\bin\Debug\LambdaSubAssignment.exe
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LambdaSubAssignment\LambdaSubAssignment\bin\Debug\LambdaSubAssignment.pdb
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LambdaSubAssignment\LambdaSubAssignment\obj\Debug\LambdaSubAssignment.csproj.AssemblyReference.cache
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LambdaSubAssignment\LambdaSubAssignment\obj\Debug\LambdaSubAssignment.csproj.CoreCompileInputs.cache
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LambdaSubAssignment\LambdaSubAssignment\obj\Debug\LambdaSubAssignment.exe
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LambdaSubAssignment\LambdaSubAssignment\obj\Debug\LambdaSubAssignment.pdb
