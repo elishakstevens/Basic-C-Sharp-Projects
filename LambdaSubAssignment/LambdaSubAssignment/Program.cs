@@ -26,8 +26,9 @@ namespace LambdaSubAssignment
                 new Employee { Id = 10, FirstName = "Gabriel", LastName = "Lorca" },
             };
 
+
             //Creating new list to add to
-            List<Employee> listJoe = new List<Employee>();
+            //List<Employee> listJoe = new List<Employee>();
 
             ////Iterating through first list and adding to second
             //foreach (Employee employee in employees)
@@ -38,32 +39,27 @@ namespace LambdaSubAssignment
             //    }
             //}
 
+
+            //Creating new list to add to
             //Iterating through employees list and adding to listJoe
             //Displaying results to console
+            List<Employee> listJoe = employees.Where(e => e.FirstName == "Joe").ToList();
             Console.WriteLine("Employees with the first name \'Joe\':\n");
-            employees.ForEach(e =>
+            foreach (Employee e in listJoe)
             {
-                if (e.FirstName == "Joe")
-                {
-                    listJoe.Add(e);
-                    Console.WriteLine("ID#" + e.Id + ": " + e.FirstName + " " + e.LastName);
-                }
-            });
+                Console.WriteLine("ID#" + e.Id + ": " + e.FirstName + " " + e.LastName);
+            }
             Console.ReadLine();
 
-            //Creating a third list
-            List<Employee> employeeIds = new List<Employee>();
-            Console.WriteLine("Employees with IDs greater than 5:\n");
-            //Iterating through employees list and adding to employeeIds list
+            //Creating new list to add to
+            //Iterating through employees list and adding to employeeIds
             //Displaying results to console
-            employees.ForEach(e =>
+            List<Employee> employeeIds = employees.Where(e => e.Id > 5).ToList();
+            Console.WriteLine("Employees with IDs greater than 5:\n");
+            foreach (Employee e in employeeIds)
             {
-                if (e.Id > 5)
-                {
-                    employeeIds.Add(e);
-                    Console.WriteLine("ID#" + e.Id + ": " + e.FirstName + " " + e.LastName);
-                }
-            });
+                Console.WriteLine("ID#" + e.Id + ": " + e.FirstName + " " + e.LastName);
+            }
             Console.ReadLine();
         }
     }
