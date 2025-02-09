@@ -1,0 +1,7 @@
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConstructorSubAssignment\ConstructorSubAssignment\bin\Debug\ConstructorSubAssignment.exe.config
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConstructorSubAssignment\ConstructorSubAssignment\bin\Debug\ConstructorSubAssignment.exe
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConstructorSubAssignment\ConstructorSubAssignment\bin\Debug\ConstructorSubAssignment.pdb
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConstructorSubAssignment\ConstructorSubAssignment\obj\Debug\ConstructorSubAssignment.csproj.AssemblyReference.cache
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConstructorSubAssignment\ConstructorSubAssignment\obj\Debug\ConstructorSubAssignment.csproj.CoreCompileInputs.cache
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConstructorSubAssignment\ConstructorSubAssignment\obj\Debug\ConstructorSubAssignment.exe
+C:\Users\elish\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConstructorSubAssignment\ConstructorSubAssignment\obj\Debug\ConstructorSubAssignment.pdb
