@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\elish\\OneDrive\\Documents\\GitHub\\Basic-C-Sharp-Projects\\TechAcadStudentsMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3968F0E4-1192-42C6-843F-89108D980AF0}|TechAcadStudentsMVC\\TechAcadStudentsMVC.csproj|c:\\users\\elish\\onedrive\\documents\\github\\basic-c-sharp-projects\\techacadstudentsmvc\\techacadstudentsmvc\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3968F0E4-1192-42C6-843F-89108D980AF0}|TechAcadStudentsMVC\\TechAcadStudentsMVC.csproj|solutionrelative:techacadstudentsmvc\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3968F0E4-1192-42C6-843F-89108D980AF0}|TechAcadStudentsMVC\\TechAcadStudentsMVC.csproj|c:\\users\\elish\\onedrive\\documents\\github\\basic-c-sharp-projects\\techacadstudentsmvc\\techacadstudentsmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3968F0E4-1192-42C6-843F-89108D980AF0}|TechAcadStudentsMVC\\TechAcadStudentsMVC.csproj|solutionrelative:techacadstudentsmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3968F0E4-1192-42C6-843F-89108D980AF0}|TechAcadStudentsMVC\\TechAcadStudentsMVC.csproj|c:\\users\\elish\\onedrive\\documents\\github\\basic-c-sharp-projects\\techacadstudentsmvc\\techacadstudentsmvc\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3968F0E4-1192-42C6-843F-89108D980AF0}|TechAcadStudentsMVC\\TechAcadStudentsMVC.csproj|solutionrelative:techacadstudentsmvc\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3968F0E4-1192-42C6-843F-89108D980AF0}|TechAcadStudentsMVC\\TechAcadStudentsMVC.csproj|c:\\users\\elish\\onedrive\\documents\\github\\basic-c-sharp-projects\\techacadstudentsmvc\\techacadstudentsmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3968F0E4-1192-42C6-843F-89108D980AF0}|TechAcadStudentsMVC\\TechAcadStudentsMVC.csproj|solutionrelative:techacadstudentsmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3968F0E4-1192-42C6-843F-89108D980AF0}|TechAcadStudentsMVC\\TechAcadStudentsMVC.csproj|c:\\users\\elish\\onedrive\\documents\\github\\basic-c-sharp-projects\\techacadstudentsmvc\\techacadstudentsmvc\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3968F0E4-1192-42C6-843F-89108D980AF0}|TechAcadStudentsMVC\\TechAcadStudentsMVC.csproj|solutionrelative:techacadstudentsmvc\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +30,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\elish\\OneDrive\\Documents\\GitHub\\Basic-C-Sharp-Projects\\TechAcadStudentsMVC\\TechAcadStudentsMVC\\Views\\Students\\Index.cshtml",
               "RelativeDocumentMoniker": "TechAcadStudentsMVC\\Views\\Students\\Index.cshtml",
@@ -38,8 +38,7 @@
               "RelativeToolTip": "TechAcadStudentsMVC\\Views\\Students\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-15T23:10:45.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T23:10:45.019Z"
             },
             {
               "$type": "Document",
@@ -51,18 +50,17 @@
               "RelativeToolTip": "TechAcadStudentsMVC\\Controllers\\StudentsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T23:09:00.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T23:09:00.944Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\elish\\OneDrive\\Documents\\GitHub\\Basic-C-Sharp-Projects\\TechAcadStudentsMVC\\TechAcadStudentsMVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "TechAcadStudentsMVC\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\elish\\OneDrive\\Documents\\GitHub\\Basic-C-Sharp-Projects\\TechAcadStudentsMVC\\TechAcadStudentsMVC\\Controllers\\HomeController.cs",
               "RelativeToolTip": "TechAcadStudentsMVC\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowCwAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-15T22:19:29.673Z",
               "EditorCaption": ""
