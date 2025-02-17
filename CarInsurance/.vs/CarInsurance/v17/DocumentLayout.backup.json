@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\elish\\OneDrive\\Documents\\GitHub\\Basic-C-Sharp-Projects\\CarInsurance\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E287543-AAC2-476B-AF34-A7CFB965481A}|CarInsurance\\CarInsurance.csproj|c:\\users\\elish\\onedrive\\documents\\github\\basic-c-sharp-projects\\carinsurance\\carinsurance\\views\\insuree\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2E287543-AAC2-476B-AF34-A7CFB965481A}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\views\\insuree\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2E287543-AAC2-476B-AF34-A7CFB965481A}|CarInsurance\\CarInsurance.csproj|c:\\users\\elish\\onedrive\\documents\\github\\basic-c-sharp-projects\\carinsurance\\carinsurance\\controllers\\insureecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E287543-AAC2-476B-AF34-A7CFB965481A}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\controllers\\insureecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E287543-AAC2-476B-AF34-A7CFB965481A}|CarInsurance\\CarInsurance.csproj|c:\\users\\elish\\onedrive\\documents\\github\\basic-c-sharp-projects\\carinsurance\\carinsurance\\views\\insuree\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E287543-AAC2-476B-AF34-A7CFB965481A}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\views\\insuree\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2E287543-AAC2-476B-AF34-A7CFB965481A}|CarInsurance\\CarInsurance.csproj|c:\\users\\elish\\onedrive\\documents\\github\\basic-c-sharp-projects\\carinsurance\\carinsurance\\data\\insurancecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,8 +54,7 @@
               "RelativeToolTip": "CarInsurance\\Data\\InsuranceContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T02:37:46.438Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T02:37:46.438Z"
             },
             {
               "$type": "Document",
@@ -67,8 +66,7 @@
               "RelativeToolTip": "CarInsurance\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T02:33:47.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T02:33:47.999Z"
             },
             {
               "$type": "Document",
@@ -80,12 +78,11 @@
               "RelativeToolTip": "CarInsurance\\Views\\Insuree\\Index.cshtml",
               "ViewState": "AgIAAC0AAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T01:20:33.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T01:20:33.756Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Admin.cshtml",
               "DocumentMoniker": "C:\\Users\\elish\\OneDrive\\Documents\\GitHub\\Basic-C-Sharp-Projects\\CarInsurance\\CarInsurance\\Views\\Insuree\\Admin.cshtml",
               "RelativeDocumentMoniker": "CarInsurance\\Views\\Insuree\\Admin.cshtml",
@@ -93,18 +90,17 @@
               "RelativeToolTip": "CarInsurance\\Views\\Insuree\\Admin.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T01:19:47.796Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T01:19:47.796Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "InsureeController.cs",
               "DocumentMoniker": "C:\\Users\\elish\\OneDrive\\Documents\\GitHub\\Basic-C-Sharp-Projects\\CarInsurance\\CarInsurance\\Controllers\\InsureeController.cs",
               "RelativeDocumentMoniker": "CarInsurance\\Controllers\\InsureeController.cs",
               "ToolTip": "C:\\Users\\elish\\OneDrive\\Documents\\GitHub\\Basic-C-Sharp-Projects\\CarInsurance\\CarInsurance\\Controllers\\InsureeController.cs",
               "RelativeToolTip": "CarInsurance\\Controllers\\InsureeController.cs",
-              "ViewState": "AgIAANsAAAAAAAAAAAAAwO4AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAqwPAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-17T00:25:43.681Z",
               "EditorCaption": ""
@@ -119,8 +115,7 @@
               "RelativeToolTip": "CarInsurance\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-17T00:16:46.527Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T00:16:46.527Z"
             },
             {
               "$type": "Document",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "CarInsurance\\Models\\Insuree.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T00:04:06.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T00:04:06.475Z"
             }
           ]
         }

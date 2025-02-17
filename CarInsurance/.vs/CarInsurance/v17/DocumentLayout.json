@@ -54,8 +54,7 @@
               "RelativeToolTip": "CarInsurance\\Data\\InsuranceContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T02:37:46.438Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T02:37:46.438Z"
             },
             {
               "$type": "Document",
@@ -67,8 +66,7 @@
               "RelativeToolTip": "CarInsurance\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T02:33:47.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T02:33:47.999Z"
             },
             {
               "$type": "Document",
@@ -80,8 +78,7 @@
               "RelativeToolTip": "CarInsurance\\Views\\Insuree\\Index.cshtml",
               "ViewState": "AgIAAC0AAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T01:20:33.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T01:20:33.756Z"
             },
             {
               "$type": "Document",
@@ -93,8 +90,7 @@
               "RelativeToolTip": "CarInsurance\\Views\\Insuree\\Admin.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T01:19:47.796Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T01:19:47.796Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "CarInsurance\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-17T00:16:46.527Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T00:16:46.527Z"
             },
             {
               "$type": "Document",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "CarInsurance\\Models\\Insuree.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T00:04:06.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T00:04:06.475Z"
             }
           ]
         }
